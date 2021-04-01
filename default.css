@@ -23,7 +23,7 @@ content: url(https://www.clipartmax.com/png/full/43-438912_number-32-clipart.png
 .pageTitleWithLogo {
 background-image: url(https://www.clipartmax.com/png/full/43-438912_number-32-clipart.png) !important; }
 
-#loginPage h1 {text: "Accedi bastardo"}
+#loginPage h1 {content: "Accedi bastardo"}
 /*Mini My media*/
 
 #indexPage .raised.emby-button:hover {
