@@ -11,9 +11,17 @@ h1,h2,h3,h4 {
 }
 
 /*###########################| Logo |##################################*/
-.pageTitleWithDefaultLogo {
-    background-image: url(https://www.clipartmax.com/png/full/43-438912_number-32-clipart.png);
-}
+/* Login Page Logo*/
+.imgLogoIcon {
+content: url(https://www.clipartmax.com/png/full/43-438912_number-32-clipart.png) !important; }
+  
+/* Main Drawer Mobile Logo*/
+.adminDrawerLogo img {
+content: url(https://www.clipartmax.com/png/full/43-438912_number-32-clipart.png) !important; }
+  
+/* Home Page Logo*/
+.pageTitleWithLogo {
+background-image: url(https://www.clipartmax.com/png/full/43-438912_number-32-clipart.png) !important; }
 /*Mini My media*/
 
 #indexPage .raised.emby-button:hover {
