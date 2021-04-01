@@ -7,20 +7,20 @@ This is JellySkin:
 To use just copy this :
 
 ```css
-@import url("https://prayag17.github.io/JellySkin/default.css");
+@import url("https://studio32-dev.github.io/Studio32-Jellyfin/default.css");
 ```
 To use Logos like the images given below use:
 
 ```css
-@import url("https://prayag17.github.io/JellySkin/Logo.css");
+@import url("https://studio32-dev.github.io/Studio32-Jellyfin/Logo.css");
 ```
 
 To use different gradient for your buttons I have added few different gradients you can choose or you can create your own (check the steps given bellow), the default gradient used is jellyfin's default logo gradient,using this alone will only skin the button colors and I know the names for this are very funny:
 ```css
-@import url("https://prayag17.github.io/JellySkin/seaGradient.css");
-@import url("https://prayag17.github.io/JellySkin/sunsetGradient.css");
-@import url("https://prayag17.github.io/JellySkin/morningGradient.css");
-@import url("https://prayag17.github.io/JellySkin/nightSkyGradient.css");
+@import url("https://studio32-dev.github.io/Studio32-Jellyfin/seaGradient.css");
+@import url("https://studio32-dev.github.io/Studio32-Jellyfin/sunsetGradient.css");
+@import url("https://studio32-dev.github.io/Studio32-Jellyfin/morningGradient.css");
+@import url("https://studio32-dev.github.io/Studio32-Jellyfin/nightSkyGradient.css");
 ```
 and past it in custom css text box and click save. To open Custom CSS settings go to Dashboard>General>Custom CSS.
 <br>
@@ -32,33 +32,33 @@ Create your gradient or solid color and past it in ```--custom``` and gradient i
 ```
 Now, to use your own Gradient (to get great button or any gradient go to https://cssgradient.io/gradient-backgrounds or https://cssgradient.io) or solid color:
 ```css
-@import url("https://prayag17.github.io/JellySkin/customCol.css");
+@import url("https://studio32-dev.github.io/Studio32-Jellyfin/customCol.css");
 ```  
 <h3>Here are some images:</h3>
 
 <h5>Login Page</h5>
-<img src="https://prayag17.github.io/JellySkin/img/login.jpg">
+<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/login.jpg">
 
 <h5>Home screen:</h5>
-<img src="https://prayag17.github.io/JellySkin/img/Home.jpg">
+<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Home.jpg">
 
 <h5>Library View</h5>
-<img src="https://prayag17.github.io/JellySkin/img/Movies.jpg">
-<img src="https://prayag17.github.io/JellySkin/img/TV%20Shows.jpg">
-<img src="https://prayag17.github.io/JellySkin/img/Collections.jpg">
+<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Movies.jpg">
+<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/TV%20Shows.jpg">
+<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Collections.jpg">
 
 <h5>Title screen:</h5>
-<img src="https://prayag17.github.io/JellySkin/img/Title%20Page-Movie.jpg">
-<img src="https://prayag17.github.io/JellySkin/img/Title%20Page-TV.jpg">
+<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Title%20Page-Movie.jpg">
+<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Title%20Page-TV.jpg">
 
 <h5>TV Shows Season Episode list:</h5>
-<img src="https://prayag17.github.io/JellySkin/img/Ep-list.jpg">
+<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Ep-list.jpg">
 
 <h5>Dialogs</h5>
-<img src="https://prayag17.github.io/JellySkin/img/Menu.jpg">
-<img src="https://prayag17.github.io/JellySkin/img/Dialog-1.jpg">
-<img src="https://prayag17.github.io/JellySkin/img/Dialog-2.jpg">
-<img src="https://prayag17.github.io/JellySkin/img/Dialog-3.jpg">
+<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Menu.jpg">
+<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Dialog-1.jpg">
+<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Dialog-2.jpg">
+<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Dialog-3.jpg">
 <br>
 <br>
 
