@@ -10,22 +10,7 @@ h1,h2,h3,h4 {
   text-shadow: none;
 }
 
-/*###########################| Logo |##################################*/
-/* Login Page Logo*/
-.imgLogoIcon {
-content: url(https://www.clipartmax.com/png/full/43-438912_number-32-clipart.png) !important; }
-  
-/* Main Drawer Mobile Logo*/
-.adminDrawerLogo img {
-content: url(https://www.clipartmax.com/png/full/43-438912_number-32-clipart.png) !important; }
-  
-/* Home Page Logo*/
-.pageTitleWithLogo {
-background-image: url(https://www.clipartmax.com/png/full/43-438912_number-32-clipart.png) !important; }
 
-#loginPage h1 {content: "Accedi bastardo"}
-.sectionTitle{content: "Accedi bastardo"}
-/*Mini My media*/
 
 #indexPage .raised.emby-button:hover {
   background: rgb(0, 0, 0, .75) !important;
