@@ -7,20 +7,20 @@ This is JellySkin:
 To use just copy this :
 
 ```css
-@import url("https://studio32-dev.github.io/Studio32-Jellyfin/default.css");
+@import url("https://studio32-dev.github.io/StudioFlix/default.css");
 ```
 To use Logos like the images given below use:
 
 ```css
-@import url("https://studio32-dev.github.io/Studio32-Jellyfin/Logo.css");
+@import url("https://studio32-dev.github.io/StudioFlix/Logo.css");
 ```
 
 To use different gradient for your buttons I have added few different gradients you can choose or you can create your own (check the steps given bellow), the default gradient used is jellyfin's default logo gradient,using this alone will only skin the button colors and I know the names for this are very funny:
 ```css
-@import url("https://studio32-dev.github.io/Studio32-Jellyfin/seaGradient.css");
-@import url("https://studio32-dev.github.io/Studio32-Jellyfin/sunsetGradient.css");
-@import url("https://studio32-dev.github.io/Studio32-Jellyfin/morningGradient.css");
-@import url("https://studio32-dev.github.io/Studio32-Jellyfin/nightSkyGradient.css");
+@import url("https://studio32-dev.github.io/StudioFlix/seaGradient.css");
+@import url("https://studio32-dev.github.io/StudioFlix/sunsetGradient.css");
+@import url("https://studio32-dev.github.io/StudioFlix/morningGradient.css");
+@import url("https://studio32-dev.github.io/StudioFlix/nightSkyGradient.css");
 ```
 and past it in custom css text box and click save. To open Custom CSS settings go to Dashboard>General>Custom CSS.
 <br>
@@ -37,28 +37,28 @@ Now, to use your own Gradient (to get great button or any gradient go to https:/
 <h3>Here are some images:</h3>
 
 <h5>Login Page</h5>
-<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/login.jpg">
+<img src="https://studio32-dev.github.io/StudioFlix/img/login.jpg">
 
 <h5>Home screen:</h5>
-<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Home.jpg">
+<img src="https://studio32-dev.github.io/StudioFlix/img/Home.jpg">
 
 <h5>Library View</h5>
-<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Movies.jpg">
-<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/TV%20Shows.jpg">
-<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Collections.jpg">
+<img src="https://studio32-dev.github.io/StudioFlix/img/Movies.jpg">
+<img src="https://studio32-dev.github.io/StudioFlix/img/TV%20Shows.jpg">
+<img src="https://studio32-dev.github.io/StudioFlix/img/Collections.jpg">
 
 <h5>Title screen:</h5>
-<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Title%20Page-Movie.jpg">
-<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Title%20Page-TV.jpg">
+<img src="https://studio32-dev.github.io/StudioFlix/img/Title%20Page-Movie.jpg">
+<img src="https://studio32-dev.github.io/StudioFlix/img/Title%20Page-TV.jpg">
 
 <h5>TV Shows Season Episode list:</h5>
-<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Ep-list.jpg">
+<img src="https://studio32-dev.github.io/StudioFlix/img/Ep-list.jpg">
 
 <h5>Dialogs</h5>
-<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Menu.jpg">
-<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Dialog-1.jpg">
-<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Dialog-2.jpg">
-<img src="https://studio32-dev.github.io/Studio32-Jellyfin/img/Dialog-3.jpg">
+<img src="https://studio32-dev.github.io/StudioFlix/img/Menu.jpg">
+<img src="https://studio32-dev.github.io/StudioFlix/img/Dialog-1.jpg">
+<img src="https://studio32-dev.github.io/StudioFlix/img/Dialog-2.jpg">
+<img src="https://studio32-dev.github.io/StudioFlix/img/Dialog-3.jpg">
 <br>
 <br>
 
